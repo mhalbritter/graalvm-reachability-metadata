@@ -1,0 +1,10 @@
+[
+  {
+    "latest": true,
+    "metadata-version": "1.17.3",
+    "module": "org.testcontainers:testcontainers",
+    "tested-versions": [
+      "1.17.3"
+    ]
+  }
+]
